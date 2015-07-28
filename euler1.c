@@ -1,6 +1,6 @@
 //
 //  euler1.c
-//  HelloWorld
+//  Project Euler problem 1: Sum multiples of 3 or 5
 //
 //  Created by Hunter Betz on 7/6/15.
 //  Copyright (c) 2015 Hunter Betz. All rights reserved.
