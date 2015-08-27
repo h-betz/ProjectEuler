@@ -31,14 +31,10 @@ int main() {
 
 //find the sum of the squares
 long int sum_square() {
-    
-    long int num = 1;
+
     long int sum = 0;
     
-    while(num <= 100) {
-        sum += num * num;
-        num++;
-    }
+    sum = ((100 * 101 * 201) / 6);
     
     return sum;
 }
@@ -46,14 +42,10 @@ long int sum_square() {
 //find the square of the sum
 long int square_sum() {
     
-    long int num = 1;
     long int sum = 0;
     long int square = 0;
     
-    while(num <= 100) {
-        sum += num;
-        num++;
-    }
+    sum = (100 * (101) / 2);
     
     square = sum * sum;
     
